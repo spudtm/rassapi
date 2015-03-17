@@ -1,0 +1,4 @@
+## Conferences ##
+
+  1. G de Mel, F Bergamaschib, T Pham, W Vasconcelos, T Norman Service-Oriented Reasoning Architecture For Resource-Task Assignment In Sensor Networks, SPIE Defense, Security, and Sensing (DSS 2011), Orlando, Florida, April, 2011 [PDF](http://www.csd.abdn.ac.uk/~gdemel/myHome/publications/gdemel-8047-35-services.pdf)
+  1. G de Mel, T Pham, T Damarla, W Vasconcelos, T Norman Semantically Enriched Data For Effective Sensor Data Fusion, SPIE Defense, Security, and Sensing (DSS 2011), Orlando, Florida, April, 2011 [PDF](http://www.csd.abdn.ac.uk/~gdemel/myHome/publications/gdemel-8047-22-fusion.pdf)
